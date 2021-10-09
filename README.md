@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyberkid05
-- 👀 I’m interested in Research and Development.
+- 👀 I’m interested in Research && Development.
 - 🌱 I’m currently learning Data Structures, Algorithms and Offensive Security.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me --> https://www.linkedin.com/in/adithyaes/
